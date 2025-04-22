@@ -1,18 +1,18 @@
 {
     "project": {
         "name": "mybgg",
-        "title": ""
+        "title": "Yaser BoardGames"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "Tibag",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME",
+        "app_id": "JDZ4T726XT",
+        "api_key_search_only": "88e87c34cb9548a7ea6a348f975eb98c",
+        "index_name": "my_games",
         "hits_per_page": 24
     }
 }
